@@ -109,13 +109,6 @@ The app collects motion data through the sensors (accelerometer/gyroscope) and s
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## Buy me a Coffee
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/cl0v">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ## License
 
